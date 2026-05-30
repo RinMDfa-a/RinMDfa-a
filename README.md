@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ## Projects
 
-[![Finvestor](https://github-readme-stats.vercel.app/api/pin/?username=rinmdfa25&repo=IF2050-2025-K3I-Finvestor&theme=tokyonight)](https://github.com/rinmdfa25/IF2050-2025-K3I-Finvestor)
+[![Image Captioning](https://github-readme-stats.vercel.app/api/pin/?username=rinmdfa25&repo=IF3270_TB2_K03_G51_WhenYhDapetKPDatsci&theme=tokyonight)](https://github.com/rinmdfa25/IF2050-2025-K3I-Finvestor)
 
 [![Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=rinmdfa25&repo=IF3070-K03-G29-AkuBagasAI-Tubes2&theme=tokyonight)](https://github.com/rinmdfa25/IF3070-K03-G29-AkuBagasAI-Tubes2)
 
