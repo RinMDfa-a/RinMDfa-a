@@ -57,8 +57,6 @@ Here are some ideas to get you started:
 
 [![Image Captioning](https://github-readme-stats.vercel.app/api/pin/?username=rinmdfa25&repo=IF3270_TB2_K03_G51_WhenYhDapetKPDatsci&theme=tokyonight)](https://github.com/rinmdfa25/IF3270_TB2_K03_G51_WhenYhDapetKPDatsci)
 
-[![Bacteria Evolution Predict Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rinmdfa25&repo=IF3211_Tugas-Besar_Kelompok-1_K3_Bacteria-Evolution-Predict-&theme=tokyonight)](https://github.com/rinmdfa25/IF3211_Tugas-Besar_Kelompok-1_K3_Bacteria-Evolution-Predict-Analysis)
-
 [![Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=rinmdfa25&repo=IF3070-K03-G29-AkuBagasAI-Tubes2&theme=tokyonight)](https://github.com/rinmdfa25/IF3070-K03-G29-AkuBagasAI-Tubes2)
 
 ## Get in Touch
