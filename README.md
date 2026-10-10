@@ -1,7 +1,7 @@
 # Hi there 👋! I'm...
 
 <!--
-**rinmdfa25/rinmdfa25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RinMDfa-a/RinMDfa-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 
 ## Projects
 
-[![Image Captioning](https://github-readme-stats.vercel.app/api/pin/?username=rinmdfa25&repo=IF3270_TB2_K03_G51_WhenYhDapetKPDatsci&theme=tokyonight)](https://github.com/rinmdfa25/IF3270_TB2_K03_G51_WhenYhDapetKPDatsci)
+[![Image Captioning](https://github-readme-stats.vercel.app/api/pin/?username=RinMDfa-a&repo=IF3270_TB2_K03_G51_WhenYhDapetKPDatsci&theme=tokyonight)](https://github.com/RinMDfa-a/IF3270_TB2_K03_G51_WhenYhDapetKPDatsci)
 
-[![Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=rinmdfa25&repo=IF3070-K03-G29-AkuBagasAI-Tubes2&theme=tokyonight)](https://github.com/rinmdfa25/IF3070-K03-G29-AkuBagasAI-Tubes2)
+[![Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=RinMDfa-a&repo=IF3070-K03-G29-AkuBagasAI-Tubes2&theme=tokyonight)](https://github.com/RinMDfa-a/IF3070-K03-G29-AkuBagasAI-Tubes2)
 
 ## Get in Touch
 
@@ -65,6 +65,6 @@ Here are some ideas to get you started:
 
 ## Stats
 
-![Daffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinmdfa25&show_icons=true&theme=tokyonight)
+![Daffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=RinMDfa-a&show_icons=true&theme=tokyonight)
 
-![Daffa's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinmdfa25&show_icons=true&theme=tokyonight&layout=pie)
+![Daffa's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RinMDfa-a&show_icons=true&theme=tokyonight&layout=pie)
